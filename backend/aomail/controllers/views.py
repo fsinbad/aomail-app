@@ -51,7 +51,6 @@ from aomail.utils.serializers import (
     ContactSerializer,
 )
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

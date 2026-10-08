@@ -43,7 +43,6 @@ from aomail.ai_providers.prompts import (
     IMPROVE_EMAIL_RESPONSE_PROMPT_VARIABLES,
 )
 
-
 LOGGER = logging.getLogger(__name__)
 LANGUAGES = ["french", "american", "german", "russian", "spanish", "chinese", "indian"]
 THEMES = ["dark", "light"]

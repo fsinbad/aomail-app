@@ -37,7 +37,6 @@ from aomail.constants import (
     PASSWORD_MIN_LENGTH,
 )
 
-
 LOGGER = logging.getLogger(__name__)
 
 

@@ -27,7 +27,6 @@ from aomail.email_providers.google.webhook import (
     check_and_resubscribe_to_missing_resources,
 )
 
-
 LOGGER = logging.getLogger(__name__)
 
 

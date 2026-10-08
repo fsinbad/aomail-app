@@ -7,7 +7,6 @@ import logging
 from aomail.ai_providers import llm_functions
 from aomail.models import KeyPoint, Preference
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

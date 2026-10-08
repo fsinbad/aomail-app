@@ -31,7 +31,6 @@ from aomail.ai_providers.prompts import (
     SUMMARIZE_EMAIL_PROMPT,
 )
 
-
 LOGGER = logging.getLogger(__name__)
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 

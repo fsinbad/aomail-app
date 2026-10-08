@@ -7,7 +7,6 @@ from imap_tools import MailBox, MailBoxUnencrypted, BaseMailBox
 from aomail.utils import security
 from aomail.constants import SOCIAL_API_REFRESH_TOKEN_KEY
 
-
 LOGGER = logging.getLogger(__name__)
 
 

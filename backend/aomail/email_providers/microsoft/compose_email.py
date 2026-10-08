@@ -30,7 +30,6 @@ from aomail.email_providers.microsoft.email_operations import get_mail_to_db
 from aomail.ai_providers.utils import update_tokens_stats
 from aomail.ai_providers.google.client import generate_email_response
 
-
 LOGGER = logging.getLogger(__name__)
 
 

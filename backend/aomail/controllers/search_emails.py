@@ -33,7 +33,6 @@ from aomail.utils.security import subscription, decrypt_text
 from django.contrib.auth.models import User
 from aomail.email_providers.imap.emails_sync import save_emails_to_db
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

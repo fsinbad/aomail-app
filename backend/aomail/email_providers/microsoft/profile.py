@@ -26,7 +26,6 @@ from aomail.utils import email_processing
 from aomail.constants import ALLOW_ALL, GRAPH_URL
 from aomail.models import SocialAPI
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

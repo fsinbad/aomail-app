@@ -17,7 +17,6 @@ from aomail.constants import (
     POSSIBLY_RELEVANT,
 )
 
-
 EXTRACT_CONTACTS_RECIPIENTS_PROMPT = """As an intelligent email assistant, analyze the input to categorize email recipients into main, cc, and bcc categories based on the presence of keywords and context that suggest copying or blind copying. Here's the input: '{query}'.
 
 Guidelines for classification:

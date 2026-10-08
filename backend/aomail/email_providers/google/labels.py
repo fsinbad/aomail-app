@@ -19,7 +19,6 @@ from aomail.constants import (
     NOT_RELEVANT,
 )
 
-
 LOGGER = logging.getLogger(__name__)
 HIDE_LABEL_NAMES = [
     ANSWER_REQUIRED,

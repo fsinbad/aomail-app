@@ -5,7 +5,6 @@ File that stores all constants and computed paths
 import os
 import dotenv
 
-
 dotenv.load_dotenv()
 
 ######################## SECURITY ########################

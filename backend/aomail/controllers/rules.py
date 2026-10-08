@@ -16,7 +16,6 @@ from aomail.constants import ALLOW_ALL
 from aomail.models import Rule
 from aomail.utils.serializers import RuleSerializer
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

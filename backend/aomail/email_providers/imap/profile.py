@@ -6,7 +6,6 @@ from aomail.utils import email_processing
 from aomail.email_providers.imap.authentication import connect_to_imap
 from aomail.models import SocialAPI
 
-
 LOGGER = logging.getLogger(__name__)
 
 

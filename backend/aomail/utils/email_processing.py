@@ -11,7 +11,6 @@ from aomail.models import Category, Contact
 from bs4 import BeautifulSoup
 from django.contrib.auth.models import User
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

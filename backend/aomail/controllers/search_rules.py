@@ -20,7 +20,6 @@ from aomail.utils.security import subscription
 from django.contrib.auth.models import User
 from aomail.utils.email_processing import camel_to_snake
 
-
 LOGGER = logging.getLogger(__name__)
 
 

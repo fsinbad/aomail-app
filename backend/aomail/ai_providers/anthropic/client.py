@@ -48,7 +48,6 @@ from aomail.ai_providers.prompts import (
     SUMMARIZE_EMAIL_PROMPT,
 )
 
-
 LOGGER = logging.getLogger(__name__)
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 

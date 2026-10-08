@@ -11,7 +11,6 @@ from aomail.utils import email_processing
 from django.contrib.auth.models import User
 from aomail.email_providers.imap.utils import get_imap_email_id
 
-
 LOGGER = logging.getLogger(__name__)
 
 

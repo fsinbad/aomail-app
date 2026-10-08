@@ -71,7 +71,6 @@ from aomail.email_providers.imap.authentication import validate_imap_connection
 from aomail.email_providers.smtp.authentication import validate_smtp_connection
 from aomail.email_providers.imap import profile as imap_profile
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

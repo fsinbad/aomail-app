@@ -38,7 +38,6 @@ from aomail.email_providers.google import profile as profile_google
 from aomail.email_providers.microsoft import profile as profile_microsoft
 from aomail.email_providers.imap import profile as profile_imap
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

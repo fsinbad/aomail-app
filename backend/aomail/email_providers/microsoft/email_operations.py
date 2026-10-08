@@ -16,7 +16,6 @@ from aomail.utils import email_processing
 from aomail.constants import GRAPH_URL
 from aomail.models import Attachment, Email, SocialAPI
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

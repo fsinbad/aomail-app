@@ -7,7 +7,6 @@ from smtplib import SMTP, SMTP_SSL
 from aomail.constants import SOCIAL_API_REFRESH_TOKEN_KEY
 from aomail.utils import security
 
-
 LOGGER = logging.getLogger(__name__)
 
 

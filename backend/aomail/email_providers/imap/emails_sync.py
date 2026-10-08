@@ -7,7 +7,6 @@ from aomail.models import Email, SocialAPI
 from django.contrib.auth.models import User
 from aomail.email_providers.imap.authentication import connect_to_imap
 
-
 LOGGER = logging.getLogger(__name__)
 
 

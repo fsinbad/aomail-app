@@ -18,7 +18,6 @@ from rest_framework.response import Response
 from rest_framework import status
 from aomail.constants import EMAIL_ADMIN, INACTIVE
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

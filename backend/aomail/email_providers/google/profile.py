@@ -29,7 +29,6 @@ from aomail.email_providers.google.authentication import authenticate_service
 from aomail.utils import email_processing
 from aomail.models import SocialAPI
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

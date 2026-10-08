@@ -36,7 +36,6 @@ from aomail.constants import (
 )
 from aomail.models import SocialAPI, Subscription
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

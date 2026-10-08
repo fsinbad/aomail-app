@@ -40,7 +40,6 @@ from aomail.models import (
 from aomail.email_providers.utils import email_to_db
 from aomail.email_providers.microsoft import webhook as webhook_microsoft
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

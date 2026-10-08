@@ -48,7 +48,6 @@ from aomail.email_providers.imap import (
     email_operations as email_operations_imap,
 )
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 READ_EMAILS_MARKER = "read"

@@ -14,7 +14,6 @@ from aomail.email_providers.microsoft.authentication import (
 )
 from aomail.constants import GRAPH_URL
 
-
 LOGGER = logging.getLogger(__name__)
 
 

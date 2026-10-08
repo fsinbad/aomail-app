@@ -31,7 +31,6 @@ from aomail.utils.serializers import (
     NewCategorySerializer,
 )
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

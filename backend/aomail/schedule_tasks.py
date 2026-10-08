@@ -10,7 +10,6 @@ from aomail.models import GoogleListener
 from aomail.email_providers.google import webhook as google_webhook
 from aomail.constants import ENV
 
-
 LOGGER = logging.getLogger(__name__)
 
 

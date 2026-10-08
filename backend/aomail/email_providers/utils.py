@@ -74,7 +74,6 @@ from django.template.loader import render_to_string
 from django.core.mail import send_mail
 from aomail.ai_providers.prompts import CATEGORIZE_AND_SUMMARIZE_EMAIL_PROMPT
 
-
 LOGGER = logging.getLogger(__name__)
 
 

@@ -24,7 +24,6 @@ from aomail.utils import email_processing
 from aomail.models import SocialAPI
 from bs4 import BeautifulSoup
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

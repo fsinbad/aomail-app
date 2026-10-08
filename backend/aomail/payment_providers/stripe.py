@@ -30,7 +30,6 @@ from aomail.utils.security import subscription
 from aomail.email_providers.microsoft import webhook as webhook_microsoft
 from aomail.email_providers.google import webhook as webhook_google
 
-
 LOGGER = logging.getLogger(__name__)
 PUBLISHABLE_KEY = os.getenv("STRIPE_PUBLISHABLE_KEY")
 SECRET_KEY = os.getenv("STRIPE_SECRET_KEY")

@@ -27,7 +27,6 @@ from aomail.email_providers.microsoft import (
 from aomail.models import Attachment, Email, Label
 from aomail.utils.security import subscription
 
-
 LOGGER = logging.getLogger(__name__)
 REQUIRED_SUBJECT_KEYWORDS = [
     ["shipping label", "use by"],

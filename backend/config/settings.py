@@ -12,7 +12,6 @@ from aomail.constants import (
     CORS_ALLOWED_ORIGINS,
 )
 
-
 ######################## CREDENTIALS ########################
 SECRET_KEY = os.getenv("DJANGO_SECRET_KEY")
 DATABASE_CONFIG = {

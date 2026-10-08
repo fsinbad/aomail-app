@@ -26,7 +26,6 @@ from aomail.models import GoogleListener, SocialAPI, Subscription
 from aomail.email_providers.utils import email_to_db
 from aomail.email_providers.google import authentication as auth_google
 
-
 ######################## LOGGING CONFIGURATION ########################
 LOGGER = logging.getLogger(__name__)
 

@@ -62,7 +62,6 @@ from aomail.email_providers.imap.authentication import validate_imap_connection
 from aomail.email_providers.smtp.authentication import validate_smtp_connection
 from aomail.controllers.agents import create_default_agents
 
-
 LOGGER = logging.getLogger(__name__)
 
 
